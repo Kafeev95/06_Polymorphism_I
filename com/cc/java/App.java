@@ -14,7 +14,7 @@ public class App {
 
     }
 
-     
+     //Polymorphie
      private static void pollObj(HoneyBee obj){
         output(obj.doYourJob());
         output(obj.fly());
