@@ -37,8 +37,6 @@ public class App {
         output("----------------");
     }
 
-
-    }
    
    
     private static void output(String outputStr) {
